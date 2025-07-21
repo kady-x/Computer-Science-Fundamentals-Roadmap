@@ -1,8 +1,7 @@
 <div align="center" style="background-image: url(''); background-size: cover; background-position: center; padding: 20px;">
 <h1 align="center">🗺 Computer Science Fundamentals Roadmap  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" alt="Glowing Star" width="25" height="25"></h1>
 
-<h4 align="center">This roadmap provides a structured guide for beginners to explore computer science fundamentals. The resources included are personal recommendations. Feel free to choose your own path as you learn and grow! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food
-/Hot%20Beverage.png" alt="Hot Beverage" width="25" height="25"></h4>
+<h4 align="center">This roadmap provides a structured guide for beginners to explore computer science fundamentals. The resources included are personal recommendations. Feel free to choose your own path as you learn and grow! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Hot Beverage" width="25" height="25"></h4>
 
 ---
 
@@ -34,14 +33,14 @@ For translation:<br>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="20" height="20"> Table of Contents
 
-[Introduction to Computer Science](#introduction-to-computer-science)<br>
-[Choose a Programming Language](#choose-a-programming-language)<br>
-[Object-Oriented Programming (OOP)](#object-oriented-programming-oop)<br>
-[Data Structures and Algorithms](#data-structures-and-algorithms)<br>
-[Databases](#databases)<br>
-[Operating Systems (OS)](#operating-systems-os)<br>
-[Problem Solving](#problem-solving-practice-from-day-one)<br>
-[Version Control](#version-control)<br>
+- [Introduction to Computer Science](#introduction-to-computer-science)
+- [Choose a Programming Language](#choose-a-programming-language)
+- [Object-Oriented Programming (OOP)](#object-oriented-programming-oop)
+- [Data Structures and Algorithms](#data-structures-and-algorithms)
+- [Databases](#databases)
+- [Operating Systems (OS)](#operating-systems-os)
+- [Problem Solving](#problem-solving-practice-from-day-one)
+- [Version Control](#version-control)
 
 ---
 
