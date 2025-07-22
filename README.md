@@ -1,17 +1,17 @@
-{{center}}
+<div align="center" style="background-image: url(''); background-size: cover; background-position: center; padding: 20px;">
 
-# 🗺 {{project_name}} {{emoji_path}}/Activities/1st%20Place%20Medal.png" alt="Glowing Star{{emoji_end}}
+# 🗺 Computer Science Fundamentals Roadmap <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" alt="Glowing Star" width="25" height="25">
 
-#### This roadmap provides a structured guide for beginners to explore computer science fundamentals. The resources included are personal recommendations. Feel free to choose your own path as you learn and grow! {{emoji_path}}/Food/Hot%20Beverage.png" alt="Hot Beverage{{emoji_end}}
+#### This roadmap provides a structured guide for beginners to explore computer science fundamentals. The resources included are personal recommendations. Feel free to choose your own path as you learn and grow! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Hot Beverage" width="25" height="25">
 
 ---
 
 ### **Edited Version**
 
-This roadmap was created by [{{author_name}}]({{author_github}}).  
-And this is the original [roadmap]({{author_github}}/Computer-Science-Fundamentals-Roadmap).  
+This roadmap was created by [Ahmed M. Yahia](https://github.com/ahmedmahmoud72).  
+And this is the original [roadmap](https://github.com/ahmedmahmoud72/Computer-Science-Fundamentals-Roadmap).  
 This is an edited version reflecting my own thoughts and additions to the roadmap.  
-Alright then... Enjoy {{emoji_path}}/Travel%20and%20places/Fire.png" alt="Fire{{emoji_end}}
+Alright then... Enjoy <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25">
 
 ---
 
