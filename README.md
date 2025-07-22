@@ -1,54 +1,50 @@
-<div align="center" style="background-image: url(''); background-size: cover; background-position: center; padding: 20px;">
-<h1 align="center">🗺 Computer Science Fundamentals Roadmap  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" alt="Glowing Star" width="25" height="25"></h1>
+{{center}}
 
-<h4 align="center">This roadmap provides a structured guide for beginners to explore computer science fundamentals. The resources included are personal recommendations. Feel free to choose your own path as you learn and grow! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food
-/Hot%20Beverage.png" alt="Hot Beverage" width="25" height="25"></h4>
+# 🗺 {{project_name}} {{emoji_path}}/Activities/1st%20Place%20Medal.png" alt="Glowing Star{{emoji_end}}
 
----
-
-<h4 align="center">**Edited Version**</h4>
-
-<p align="center">
-  This roadmap created by <a href="https://github.com/ahmedmahmoud72">Eng. Ahmed M. Yahia</a><br>
-  And this is the original <a href="https://github.com/ahmedmahmoud72/Computer-Science-Fundamentals-Roadmap"> roadmap</a><br>
-  This is an edited version reflecting my own thoughts and additions to the roadmap.<br>
-  Alright then... Enjoy <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25">
-</p>
+#### This roadmap provides a structured guide for beginners to explore computer science fundamentals. The resources included are personal recommendations. Feel free to choose your own path as you learn and grow! {{emoji_path}}/Food/Hot%20Beverage.png" alt="Hot Beverage{{emoji_end}}
 
 ---
 
-For translation:<br>
-<a href="https://github.com/kady-x/Computer-Science-Fundamentals-Roadmap/blob/main/README.md"><span>English</span></a> |
-<a href="https://github.com/kady-x/Computer-Science-Fundamentals-Roadmap/blob/main/README_AR.md"><span>عربي</span></a>
+### **Edited Version**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Language-JavaScript-yellow" alt="JavaScript Badge" />
-  <img src="https://img.shields.io/badge/Language-Python-blue" alt="Python Badge" />
-  <img src="https://img.shields.io/badge/Language-C++-orange" alt="C++ Badge" />
-  <img src="https://img.shields.io/badge/License-Apache-green" alt="License Badge" />
-  <img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen" alt="Contributions Welcome Badge" />
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Status Badge" />
-</p>
+This roadmap was created by [{{author_name}}]({{author_github}}).  
+And this is the original [roadmap]({{author_github}}/Computer-Science-Fundamentals-Roadmap).  
+This is an edited version reflecting my own thoughts and additions to the roadmap.  
+Alright then... Enjoy {{emoji_path}}/Travel%20and%20places/Fire.png" alt="Fire{{emoji_end}}
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="20" height="20"> Table of Contents
+For translation:  
+[English](https://github.com/kady-x/Computer-Science-Fundamentals-Roadmap/blob/main/README.md) | [عربي](https://github.com/kady-x/Computer-Science-Fundamentals-Roadmap/blob/main/README_AR.md)
 
-[Introduction to Computer Science](#introduction-to-computer-science)<br>
-[Choose a Programming Language](#choose-a-programming-language)<br>
-[Object-Oriented Programming (OOP)](#object-oriented-programming-oop)<br>
-[Data Structures and Algorithms](#data-structures-and-algorithms)<br>
-[Databases](#databases)<br>
-[Operating Systems (OS)](#operating-systems-os)<br>
-[Problem Solving](#problem-solving-practice-from-day-one)<br>
-[Version Control](#version-control)<br>
+![JavaScript Badge](https://img.shields.io/badge/Language-JavaScript-yellow)
+![Python Badge](https://img.shields.io/badge/Language-Python-blue)
+![C++ Badge](https://img.shields.io/badge/Language-C++-orange)
+![License Badge](https://img.shields.io/badge/License-Apache-green)
+![Contributions Welcome Badge](https://img.shields.io/badge/Contributions-Welcome-brightgreen)
+![Status Badge](https://img.shields.io/badge/Status-Active-brightgreen)
+
+---
+
+## ![Books](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png) Table of Contents
+
+- [Introduction to Computer Science](#introduction-to-computer-science)  
+- [Choose a Programming Language](#choose-a-programming-language)  
+- [Object-Oriented Programming (OOP)](#object-oriented-programming-oop)  
+- [Data Structures and Algorithms](#data-structures-and-algorithms)  
+- [Databases](#databases)  
+- [Operating Systems (OS)](#operating-systems-os)  
+- [Problem Solving](#problem-solving-practice-from-day-one)  
+- [Version Control](#version-control)  
+- [Choose Your Path](#-choose-your-path)
 
 ---
 
 ## Content
 
 <details>
-<summary><b>Introduction to Computer Science</b> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/main/Emojis/People/Student.png" width="20" height="20" alt="Student Icon"></summary>
+<summary><b>Introduction to Computer Science</b> ![Student Icon](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/main/Emojis/People/Student.png)</summary>
 
 > **Note:** Choose the course that best aligns with your interests and learning style. Each of these courses will provide you with a solid foundation in computer science.
 
@@ -57,28 +53,24 @@ For translation:<br>
 ### CS50: Introduction to Computer Science (Preferred)
 This is Harvard University's introduction to the intellectual enterprises of computer science and the art of programming. The course teaches students how to think algorithmically and solve problems efficiently. Topics include abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development. Languages include C, Python, and SQL plus HTML, CSS, and JavaScript.
 
-- [CS50: Introduction to Computer Science](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science)
+- [CS50: Introduction to Computer Science](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science)  
 - [CS50 In Arabic](https://www.youtube.com/playlist?list=PLknwEmKsW8OvMsFbU9zo8oJCprAsgc4LO)
 
-<p align="center">
-  <a href="https://cs50.harvard.edu/college/2022/fall/"><img src="assets/images/CS50.png" width="500px" alt="CS50"></a>
-</p>
+![CS50](assets/images/CS50.png)
 
 ### MITx: Introduction to Computer Science and Programming Using Python
 This is an introductory course in computer science that uses Python as the primary language. The course covers basic concepts such as algorithms, data structures, and computational thinking. It's a great starting point for anyone new to programming and computer science.
 
 - [Introduction to Computer Science and Programming Using Python](https://www.edx.org/learn/computer-science/massachusetts-institute-of-technology-introduction-to-computer-science-and-programming-using-python)
 
-<p align="center">
-  <a href="https://www.edx.org/learn/computer-science/massachusetts-institute-of-technology-introduction-to-computer-science-and-programming-using-python"><img src="assets/images/MITx.jpeg" width="500px" alt="MIT Python Course"></a>
-</p>
+![MIT Python Course](assets/images/MITx.jpeg)
 
-<p align="right"><a href="#📖-table-of-contents">🔝 Back to Top</a> | <a href="#choose-a-programming-language">➡️ Next Section</a></p>
+[🔝 Back to Top](#📖-table-of-contents) | [➡️ Next Section](#choose-a-programming-language)
 
 </details>
 
 <details>
-<summary><b>Choose a Programming Language</b> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/main/Emojis/Objects/Keyboard.png" width="20" height="20" alt="Keyboard Icon"></summary>
+<summary><b>Choose a Programming Language</b> ![Keyboard Icon](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/main/Emojis/Objects/Keyboard.png)</summary>
 
 #### After completing the Introduction to Computer Science, it's time to dive deeper into a specific programming language. Below are resources for both Java and C++. Choose only **one** to focus on—the main difference between these languages is their syntax, so the concepts you learn will be applicable in either case.
 
@@ -123,14 +115,14 @@ This is an introductory course in computer science that uses Python as the prima
    - [C++ Tutorial - Tutorialspoint](https://www.tutorialspoint.com/cplusplus)
    - [C++ Tutorial - GeeksforGeeks](https://www.geeksforgeeks.org/c-plus-plus)
 
-<p align="right"><a href="#📖-table-of-contents">🔝 Back to Top</a> | <a href="#object-oriented-programming-oop">➡️ Next Section</a></p>
+[🔝 Back to Top](#📖-table-of-contents) | [➡️ Next Section](#object-oriented-programming-oop)
 
 </details>
 
 ---
 
 <details>
-<summary><b>Object Oriented Programming (OOP)</b> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/main/Emojis/Objects/Programming.png" width="20" height="20" alt="Programming Icon"></summary>
+<summary><b>Object Oriented Programming (OOP)</b> ![Programming Icon](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/main/Emojis/Objects/Programming.png)</summary>
 
 ### Learn the various programming paradigms, with a strong focus on Object-Oriented Programming (OOP).
 
@@ -169,7 +161,7 @@ This is an introductory course in computer science that uses Python as the prima
 <br>
 
 <details>
-<summary><b>Data Structures and Algorithms</b> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/main/Emojis/Objects/Data.png" width="20" height="20" alt="Data Icon"></summary>
+<summary><b>Data Structures and Algorithms</b> ![Data Icon](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/main/Emojis/Objects/Data.png)</summary>
 
 - **English**
   - [Data Structures and Algorithms with Visualizations - FreeCodeCamp Full Course in one video](https://www.youtube.com/watch?v=2ZLl8GAk1X4)
@@ -190,7 +182,7 @@ This is an introductory course in computer science that uses Python as the prima
 
 
 <details>
-<summary><b>Databases</b> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/main/Emojis/Objects/Database.png" width="20" height="20" alt="Database Icon"></summary>
+<summary><b>Databases</b> ![Database Icon](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/main/Emojis/Objects/Database.png)</summary>
 - **English**
   - [Introduction to Databases with SQL - CS50](https://cs50.harvard.edu/sql/2024/)
   - [SQL Tutorial - Full Database Course for Beginners - FreeCodeCamp Crash Course](https://youtu.be/HXV3zeQKqGY?si=HE-mwX5mSE3m0Ccv) 
@@ -208,7 +200,7 @@ This is an introductory course in computer science that uses Python as the prima
 ---
 
 <details>
-<summary><b>Operating Systems (OS)</b> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/main/Emojis/Objects/OS.png" width="20" height="20" alt="OS Icon"></summary>
+<summary><b>Operating Systems (OS)</b> ![OS Icon](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/main/Emojis/Objects/OS.png)</summary>
 
 - **English**
   - [Operating Systems: Three Easy Pieces (OSTEP) - CMU](https://youtube.com/playlist?list=PLRJWiLCmxyxi2RCPVYfewxJIWJzc_colw&si=z-qv7FdvltL24Jqs)
@@ -224,7 +216,7 @@ This is an introductory course in computer science that uses Python as the prima
 ---
 
 <details>
-<summary><b>Problem-Solving (Practice From Day One)</b> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/main/Emojis/Objects/ProblemSolving.png" width="20" height="20" alt="Problem Solving Icon"></summary>
+<summary><b>Problem-Solving (Practice From Day One)</b> ![Problem Solving Icon](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/main/Emojis/Objects/ProblemSolving.png)</summary>
 - [ICPC Al-azhar](https://sites.google.com/view/azharicpc/training-plans/level-1-training21)
 - [ICPC Assiut](https://docs.google.com/spreadsheets/d/1EbbsotAwb0zuuwxyzs8l2qh8twqw-sNcNbAjCK1kXaE/edit?usp=drivesdk)
 - [Competitions sheet - Dr. Mustafa Saad](https://docs.google.com/spreadsheets/d/1iJZWP2nS_OB3kCTjq8L6TrJJ4o-5lhxDOyTaocSYc-k/edit?gid=84654839#gid=84654839)
@@ -238,10 +230,203 @@ This is an introductory course in computer science that uses Python as the prima
 ---
 
 <details>
-<summary><b>Version Control</b> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/main/Emojis/Objects/VersionControl.png" width="20" height="20" alt="Version Control Icon"></summary>
+<summary><b>Version Control</b> ![Version Control Icon](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/main/Emojis/Objects/VersionControl.png)</summary>
 - **English**
   - [Git and GitHub for Beginners- FreeCodeCamp Crash Course](https://youtu.be/RGOj5yH7evk?si=6pN3oFWDmtPQ3EVF)
 - **Arabic**
   - [Git and GitHub | شخبط وانت متطمن - Crash Course](https://youtu.be/Q6G-J54vgKc?si=hVMcqE0GXsi_f8tD) (*Recommended*)
   - [Learn Git and Github - Elzero Web School](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF)
 </details>
+
+---
+
+## 🛤️ Choose Your Path
+
+Before diving into a specific career path, ensure you have a strong foundation in the following topics:
+
+### **Foundational Topics**
+- [Algorithms and Data Structures](#data-structures-and-algorithms)
+- [Problem-Solving](#problem-solving-practice-from-day-one)
+- [Version Control](#version-control)
+- [Basic Programming Concepts](#choose-a-programming-language)
+
+---
+
+<details>
+<summary><b>Frontend Development</b> ![Frontend Icon](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/main/Emojis/Objects/Frontend.png)</summary>
+
+### **Frontend Development Roadmap**
+1. **Learn the Basics**:
+   - HTML, CSS, JavaScript
+   - Responsive Design (Flexbox, Grid)
+2. **Frameworks**:
+   - React.js, Angular, Vue.js
+3. **Tools**:
+   - Webpack, Babel, NPM/Yarn
+4. **Advanced Topics**:
+   - State Management (Redux, Context API)
+   - Progressive Web Apps (PWAs)
+
+#### Resources:
+- [HTML & CSS Crash Course](https://youtu.be/mU6anWqZJcc)
+- [JavaScript for Beginners](https://youtu.be/W6NZfCO5SIk)
+- [React.js Documentation](https://reactjs.org/docs/getting-started.html)
+=
+</details>
+
+---
+
+<details>
+<summary><b>Backend Development</b> ![Backend Icon](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/main/Emojis/Objects/Backend.png)</summary>
+
+### **Backend Development Roadmap**
+1. **Learn a Programming Language**:
+   - Python, Java, Node.js
+2. **Databases**:
+   - SQL (MySQL, PostgreSQL)
+   - NoSQL (MongoDB, Firebase)
+3. **Frameworks**:
+   - Django, Flask, Express.js
+4. **Advanced Topics**:
+   - REST APIs, GraphQL
+   - Authentication (OAuth, JWT)
+
+#### Resources:
+- [Python for Beginners](https://youtu.be/_uQrJ0TkZlc)
+- [Django Documentation](https://docs.djangoproject.com/en/4.0/)
+- [Node.js Crash Course](https://youtu.be/fBNz5xF-Kx4)
+=
+</details>
+
+---
+
+<details>
+<summary><b>App Development</b> ![App Development Icon](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/main/Emojis/Objects/AppDevelopment.png)</summary>
+
+### **App Development Roadmap**
+1. **Mobile Development**:
+   - Flutter, React Native, Swift, Kotlin
+2. **Desktop Development**:
+   - Electron, Qt
+3. **Advanced Topics**:
+   - App Deployment (Play Store, App Store)
+   - Performance Optimization
+
+#### Resources:
+- [Flutter Documentation](https://flutter.dev/docs)
+- [React Native Crash Course](https://youtu.be/0-S5a0eXPoc)
+- [Kotlin for Beginners](https://youtu.be/F9UC9DY-vIU)
+
+</details>
+
+---
+
+<details>
+<summary><b>Data Science/AI</b> ![AI Icon](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/main/Emojis/Objects/AI.png)</summary>
+
+### **Data Science/AI Roadmap**
+1. **Programming Languages**:
+   - Python, R
+2. **Libraries**:
+   - NumPy, Pandas, TensorFlow, PyTorch
+3. **Advanced Topics**:
+   - Machine Learning, Deep Learning
+   - Data Visualization (Matplotlib, Seaborn)
+
+#### Resources:
+- [Python for Data Science](https://youtu.be/rfscVS0vtbw)
+- [TensorFlow Documentation](https://www.tensorflow.org/learn)
+- [Kaggle Courses](https://www.kaggle.com/learn)
+
+</details>
+
+---
+
+<details>
+<summary><b>DevOps</b> ![DevOps Icon](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/main/Emojis/Objects/DevOps.png)</summary>
+
+### **DevOps Roadmap**
+1. **Tools**:
+   - CI/CD (Jenkins, GitHub Actions)
+   - Docker, Kubernetes
+2. **Cloud Platforms**:
+   - AWS, Azure, GCP
+3. **Advanced Topics**:
+   - Infrastructure as Code (Terraform, Ansible)
+   - Monitoring and Logging (Prometheus, Grafana)
+
+#### Resources:
+- [Docker for Beginners](https://youtu.be/3c-iBn73dDE)
+- [Kubernetes Crash Course](https://youtu.be/s_o8dwzRlu4)
+- [AWS Certified Solutions Architect](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
+
+</details>
+
+---
+
+## 🛤️ Skills Roadmap for Developers
+
+<details>
+<summary><b>Problem Solving</b> ![Problem Solving Icon](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/main/Emojis/Objects/ProblemSolving.png)</summary>
+
+### **Focus Areas**
+- Logical thinking
+- Algorithmic skills
+- Competitive programming
+
+#### Resources:
+- [LeetCode](https://leetcode.com/)
+- [HackerRank](https://www.hackerrank.com/)
+- [NeetCode](https://neetcode.io/practice)
+
+</details>
+
+---
+
+<details>
+<summary><b>Conceptual Phase</b> ![Books Icon](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/main/Emojis/Objects/Books.png)</summary>
+
+### **Focus Areas**
+- Core programming concepts
+- Data structures and algorithms
+- Object-oriented programming
+
+#### Resources:
+- [CS50: Introduction to Computer Science](https://cs50.harvard.edu/college/2022/fall/)
+- [MITx: Introduction to Computer Science and Programming Using Python](https://www.edx.org/learn/computer-science/massachusetts-institute-of-technology-introduction-to-computer-science-and-programming-using-python)
+
+</details>
+
+---
+
+<details>
+<summary><b>Practical Phase</b> ![Programming Icon](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/main/Emojis/Objects/Programming.png)</summary>
+
+### **Focus Areas**
+- Building projects
+- Version control (Git)
+- Collaboration and teamwork
+
+#### Resources:
+- [Git and GitHub for Beginners - FreeCodeCamp](https://youtu.be/RGOj5yH7evk)
+- [Build Your Own X](https://github.com/danistefanovic/build-your-own-x)
+
+</details>
+
+---
+
+<details>
+<summary><b>Advanced Skills</b> ![AI Icon](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/main/Emojis/Objects/AI.png)</summary>
+
+### **Focus Areas**
+- System design
+- Scalability and optimization
+- Advanced algorithms
+
+#### Resources:
+- [System Design Primer](https://github.com/donnemartin/system-design-primer)
+- [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
+
+</details>
+
+---
