@@ -10,7 +10,7 @@
 
 This roadmap was created by [{{author_name}}]({{author_github}}).  
 And this is the original [roadmap]({{author_github}}/Computer-Science-Fundamentals-Roadmap).  
-This is an edited version reflecting my own thoughts and additions to the roadmap.  
+This is an **edited** version reflecting my own thoughts and additions to the roadmap.  
 Alright then... Enjoy {{emoji_path}}/Travel%20and%20places/Fire.png" alt="Fire{{emoji_end}}
 
 ---
@@ -27,7 +27,7 @@ For translation:
 
 ---
 
-## ![Books](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png) Table of Contents
+## {{emoji_path}}/Objects/Books.png" alt="Books{{emoji_end}} Table of Contents
 
 - [Introduction to Computer Science](#introduction-to-computer-science)  
 - [Choose a Programming Language](#choose-a-programming-language)  
@@ -35,22 +35,21 @@ For translation:
 - [Data Structures and Algorithms](#data-structures-and-algorithms)  
 - [Databases](#databases)  
 - [Operating Systems (OS)](#operating-systems-os)  
-- [Problem Solving](#problem-solving-practice-from-day-one)  
+- [Problem-Solving (Practice From Day One)](#problem-solving-practice-from-day-one)  
 - [Version Control](#version-control)  
-- [Choose Your Path](#-choose-your-path)
+- [Choose Your Path](#choose-your-path)
 
 ---
 
 ## Content
 
-<details>
-<summary><b>Introduction to Computer Science</b> ![Student Icon](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/main/Emojis/People/Student.png)</summary>
+### Introduction to Computer Science {{emoji_path}}/People/Student.png" alt="Student Icon{{emoji_end}}
 
 > **Note:** Choose the course that best aligns with your interests and learning style. Each of these courses will provide you with a solid foundation in computer science.
 
----
+<details>
 
-### CS50: Introduction to Computer Science (Preferred)
+#### CS50: Introduction to Computer Science (Preferred)
 This is Harvard University's introduction to the intellectual enterprises of computer science and the art of programming. The course teaches students how to think algorithmically and solve problems efficiently. Topics include abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development. Languages include C, Python, and SQL plus HTML, CSS, and JavaScript.
 
 - [CS50: Introduction to Computer Science](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science)  
@@ -58,75 +57,70 @@ This is Harvard University's introduction to the intellectual enterprises of com
 
 ![CS50](assets/images/CS50.png)
 
-### MITx: Introduction to Computer Science and Programming Using Python
+#### MITx: Introduction to Computer Science and Programming Using Python
 This is an introductory course in computer science that uses Python as the primary language. The course covers basic concepts such as algorithms, data structures, and computational thinking. It's a great starting point for anyone new to programming and computer science.
 
 - [Introduction to Computer Science and Programming Using Python](https://www.edx.org/learn/computer-science/massachusetts-institute-of-technology-introduction-to-computer-science-and-programming-using-python)
 
 ![MIT Python Course](assets/images/MITx.jpeg)
 
-[🔝 Back to Top](#📖-table-of-contents) | [➡️ Next Section](#choose-a-programming-language)
-
-</details>
-
-<details>
-<summary><b>Choose a Programming Language</b> ![Keyboard Icon](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/main/Emojis/Objects/Keyboard.png)</summary>
-
-#### After completing the Introduction to Computer Science, it's time to dive deeper into a specific programming language. Below are resources for both Java and C++. Choose only **one** to focus on—the main difference between these languages is their syntax, so the concepts you learn will be applicable in either case.
-
----
-
-### ☕ Java
-
-- **English**
-    - [Java Tutorial for Beginners - Crash Course](https://youtu.be/eIrMbAQSU34?si=0fuf36q7lrjGieo8)
-    - [Java Programming for Beginners - FreeCodeCamp Crash Course](https://youtu.be/A74TOX803D0?si=1rQQWSE_7VreRVtw)
-
-
-- **Arabic**
-   - [Learn JAVA Programming From Scratch In Arabic - Adel Nasim](https://youtube.com/playlist?list=PLCInYL3l2AajYlZGzU_LVrHdoouf8W6ZN&si=86pJLYf_qGPv2gyE)
-   - [Java Programming For Beginners - Course 1- بالعربى - Dr.Mohamed El Desouky](https://youtube.com/playlist?list=PL1DUmTEdeA6K7rdxKiWJq6JIxTvHalY8f&si=wBnqFpgvpg9MrdCr)
-   - [Java - بالعربي - Omar Ahmed](https://youtube.com/playlist?list=PLwWuxCLlF_ucgIJOLT2KH5aQ9tt-sXyQ9&si=x1maTfUXmC4US8xC)
-
-- **Tutorials**
-   - [Java Documentation - Oracle](https://docs.oracle.com/en/java/)
-   - [Java Tutorial - W3Schools](https://www.w3schools.com/java)
-   - [Java Tutorial - Javatpoint](https://www.javatpoint.com/java-tutorial)
-   - [Java Tutorial - Tutorialspoint](https://www.tutorialspoint.com/java)
-   - [Java Tutorial - GeeksforGeeks](https://www.geeksforgeeks.org/java/)
-
----
-
-### 🖥️ C++
-
-- **English**
-  - [C++ Tutorial for Beginners - FreeCodeCamp Crash Course](https://youtu.be/vLnPwxZdW4Y?si=do7-JVxyq7LBUqVG)
-  - [C++ Programming Course - Beginner to Advanced - FreeCodeCamp full course in one video](https://youtu.be/8jLOx1hD3_o?si=8xnUkbi8XO-mvlq0)
-
-- **Arabic**
-  - [CPP for beginners - سي بلس للمبتدئين - Dr Mustafa Saad](https://youtube.com/playlist?list=PLPt2dINI2MIbwnEoeHZnUHeUHjTd8x4F3&si=iwgxMvbTw4lauDfb)
-  - [Fundamentals Of Programming With C++ - Elzero Web School](https://youtube.com/playlist?list=PLDoPjvoNmBAwy-rS6WKudwVeb_x63EzgS&si=Pw-zeMW-cssGLEkL)
-  - [Learn C++ Programming From Scratch In Arabic - Adel Nasim](https://youtube.com/playlist?list=PLCInYL3l2AajFAiw4s1U4QbGszcQ-rAb3&si=16vIfd0OwKqpUTLe)
-  - [programming 1 - Programming For Beginners - C++ عربى - Dr.Mohamed El Desouky](https://youtube.com/playlist?list=PL1DUmTEdeA6IUD9Gt5rZlQfbZyAWXd-oD&si=gJ-SAIWXU60ljRbC)
-
-- **Tutorials**
-   - [C++ Tutorial - W3Schools](https://www.w3schools.com/cpp)
-   - [C++ Tutorial - Javatpoint](https://www.javatpoint.com/cpp-tutorial)
-   - [C++ Tutorial - Tutorialspoint](https://www.tutorialspoint.com/cplusplus)
-   - [C++ Tutorial - GeeksforGeeks](https://www.geeksforgeeks.org/c-plus-plus)
-
-[🔝 Back to Top](#📖-table-of-contents) | [➡️ Next Section](#object-oriented-programming-oop)
+[🔝 Back to Top](#table-of-contents) | [➡️ Next Section](#choose-a-programming-language)
 
 </details>
 
 ---
 
-<details>
-<summary><b>Object Oriented Programming (OOP)</b> ![Programming Icon](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/main/Emojis/Objects/Programming.png)</summary>
+### Choose a Programming Language {{emoji_path}}/Smilies/Robot.png" alt="Robot{{emoji_end}}
 
-### Learn the various programming paradigms, with a strong focus on Object-Oriented Programming (OOP).
+> After completing the Introduction to Computer Science, it's time to dive deeper into a specific programming language. Below are resources for both Java and C++. Choose only **one** to focus on—the main difference between these languages is their syntax, so the concepts you learn will be applicable in either case.
+
+<details>
+
+#### {{emoji_path}}/Food/Hot%20Beverage.png" alt="Hot Beverage{{emoji_end}} Java
+
+| **Language** | **Resource** | **Link** |
+|--------------|--------------|----------|
+| **English**  | Java Tutorial for Beginners - Crash Course | [Watch Here](https://youtu.be/eIrMbAQSU34?si=0fuf36q7lrjGieo8) |
+| **English**  | Java Programming for Beginners - FreeCodeCamp Crash Course | [Watch Here](https://youtu.be/A74TOX803D0?si=1rQQWSE_7VreRVtw) |
+| &nbsp;       | &nbsp;       | &nbsp;   |
+| **Arabic**   | Learn JAVA Programming From Scratch In Arabic - Adel Nasim | [Watch Here](https://youtube.com/playlist?list=PLCInYL3l2AajYlZGzU_LVrHdoouf8W6ZN&si=86pJLYf_qGPv2gyE) |
+| **Arabic**   | Java Programming For Beginners - Course 1- بالعربى - Dr.Mohamed El Desouky | [Watch Here](https://youtube.com/playlist?list=PL1DUmTEdeA6K7rdxKiWJq6JIxTvHalY8f&si=wBnqFpgvpg9MrdCr) |
+| **Arabic**   | Java - بالعربي - Omar Ahmed | [Watch Here](https://youtube.com/playlist?list=PLwWuxCLlF_ucgIJOLT2KH5aQ9tt-sXyQ9&si=x1maTfUXmC4US8xC) |
+| &nbsp;       | &nbsp;       | &nbsp;   |
+| **Tutorials**| Java Documentation - Oracle | [Read Here](https://docs.oracle.com/en/java/) |
+| **Tutorials**| Java Tutorial - W3Schools | [Read Here](https://www.w3schools.com/java) |
+| **Tutorials**| Java Tutorial - Javatpoint | [Read Here](https://www.javatpoint.com/java-tutorial) |
+| **Tutorials**| Java Tutorial - Tutorialspoint | [Read Here](https://www.tutorialspoint.com/java) |
+| **Tutorials**| Java Tutorial - GeeksforGeeks | [Read Here](https://www.geeksforgeeks.org/java/) |
+
+----
+
+#### 🖥️ C++
+
+| **Language** | **Resource** | **Link** |
+|--------------|--------------|----------|
+| **English**  | C++ Tutorial for Beginners - FreeCodeCamp Crash Course | [Watch Here](https://youtu.be/vLnPwxZdW4Y?si=do7-JVxyq7LBUqVG) |
+| **English**  | C++ Programming Course - Beginner to Advanced - FreeCodeCamp full course in one video | [Watch Here](https://youtu.be/8jLOx1hD3_o?si=8xnUkbi8XO-mvlq0) |
+| &nbsp;       | &nbsp;       | &nbsp;   |
+| **Arabic**   | CPP for beginners - سي بلس للمبتدئين - Dr Mustafa Saad | [Watch Here](https://youtube.com/playlist?list=PLPt2dINI2MIbwnEoeHZnUHeUHjTd8x4F3&si=iwgxMvbTw4lauDfb) |
+| **Arabic**   | Fundamentals Of Programming With C++ - Elzero Web School | [Watch Here](https://youtube.com/playlist?list=PLDoPjvoNmBAwy-rS6WKudwVeb_x63EzgS&si=Pw-zeMW-cssGLEkL) |
+| **Arabic**   | Learn C++ Programming From Scratch In Arabic - Adel Nasim | [Watch Here](https://youtube.com/playlist?list=PLCInYL3l2AajFAiw4s1U4QbGszcQ-rAb3&si=16vIfd0OwKqpUTLe) |
+| **Arabic**   | programming 1 - Programming For Beginners - C++ عربى - Dr.Mohamed El Desouky | [Watch Here](https://youtube.com/playlist?list=PL1DUmTEdeA6IUD9Gt5rZlQfbZyAWXd-oD&si=gJ-SAIWXU60ljRbC) |
+| &nbsp;       | &nbsp;       | &nbsp;   |
+| **Tutorials**| C++ Tutorial - W3Schools | [Read Here](https://www.w3schools.com/cpp) |
+| **Tutorials**| C++ Tutorial - Javatpoint | [Read Here](https://www.javatpoint.com/cpp-tutorial) |
+| **Tutorials**| C++ Tutorial - Tutorialspoint | [Read Here](https://www.tutorialspoint.com/cplusplus) |
+| **Tutorials**| C++ Tutorial - GeeksforGeeks | [Read Here](https://www.geeksforgeeks.org/c-plus-plus) |
+
+</details>
 
 ---
+
+### Object Oriented Programming (OOP) {{emoji_path}}/Smilies/Alien%20Monster.png" alt="Alien Monster{{emoji_end}}
+
+> Learn the various programming paradigms, with a strong focus on Object-Oriented Programming (OOP).
+
+<details>
 
 ## ☕ Object Oriented Programming in Java
 
@@ -161,7 +155,7 @@ This is an introductory course in computer science that uses Python as the prima
 <br>
 
 <details>
-<summary><b>Data Structures and Algorithms</b> ![Data Icon](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/main/Emojis/Objects/Data.png)</summary>
+<summary><b>Data Structures and Algorithms</b> {{emoji_path}}/Objects/Card%20File%20Box.png" alt="Card File Box{{emoji_end}}</summary>
 
 - **English**
   - [Data Structures and Algorithms with Visualizations - FreeCodeCamp Full Course in one video](https://www.youtube.com/watch?v=2ZLl8GAk1X4)

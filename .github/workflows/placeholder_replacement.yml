@@ -26,6 +26,16 @@ jobs:
       run: |
         python script/replace_placeholders.py
 
+    - name: Debug: List modified files
+      run: |
+        echo "Modified files:"
+        git status --short
+
+    - name: Debug: Show changes
+      run: |
+        echo "Changes made:"
+        git diff
+
     - name: Commit and push changes
       run: |
         git config --global user.name "github-actions[bot]"
