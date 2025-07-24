@@ -8,10 +8,10 @@
 
 ### **Edited Version**
 
-This roadmap was created by [{{author_name}}]({{author_github}}).  
-And this is the original [roadmap]({{author_github}}/Computer-Science-Fundamentals-Roadmap).  
+This roadmap was created by [Ahmed M. Yahia](https://github.com/ahmedmahmoud72).  
+And this is the original [roadmap](https://github.com/ahmedmahmoud72/Computer-Science-Fundamentals-Roadmap).  
 This is an **edited** version reflecting my own thoughts and additions to the roadmap.  
-Alright then... Enjoy {{emoji_path}}/Travel%20and%20places/Fire.png" alt="Fire{{emoji_end}}
+Alright then... Enjoy <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25">
 
 ---
 
@@ -27,7 +27,7 @@ For translation:
 
 ---
 
-## {{emoji_path}}/Objects/Books.png" alt="Books{{emoji_end}} Table of Contents
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="25" height="25"> Table of Contents
 
 - [Introduction to Computer Science](#introduction-to-computer-science)  
 - [Choose a Programming Language](#choose-a-programming-language)  
@@ -43,7 +43,7 @@ For translation:
 
 ## Content
 
-### Introduction to Computer Science {{emoji_path}}/People/Student.png" alt="Student Icon{{emoji_end}}
+### Introduction to Computer Science <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Student.png" alt="Student Icon" width="25" height="25">
 
 > **Note:** Choose the course that best aligns with your interests and learning style. Each of these courses will provide you with a solid foundation in computer science.
 
@@ -70,13 +70,13 @@ This is an introductory course in computer science that uses Python as the prima
 
 ---
 
-### Choose a Programming Language {{emoji_path}}/Smilies/Robot.png" alt="Robot{{emoji_end}}
+### Choose a Programming Language <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25">
 
 > After completing the Introduction to Computer Science, it's time to dive deeper into a specific programming language. Below are resources for both Java and C++. Choose only **one** to focus on—the main difference between these languages is their syntax, so the concepts you learn will be applicable in either case.
 
 <details>
 
-#### {{emoji_path}}/Food/Hot%20Beverage.png" alt="Hot Beverage{{emoji_end}} Java
+#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Hot Beverage" width="25" height="25"> Java
 
 | **Language** | **Resource** | **Link** |
 |--------------|--------------|----------|
@@ -116,7 +116,7 @@ This is an introductory course in computer science that uses Python as the prima
 
 ---
 
-### Object Oriented Programming (OOP) {{emoji_path}}/Smilies/Alien%20Monster.png" alt="Alien Monster{{emoji_end}}
+### Object Oriented Programming (OOP) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25">
 
 > Learn the various programming paradigms, with a strong focus on Object-Oriented Programming (OOP).
 
@@ -155,7 +155,7 @@ This is an introductory course in computer science that uses Python as the prima
 <br>
 
 <details>
-<summary><b>Data Structures and Algorithms</b> {{emoji_path}}/Objects/Card%20File%20Box.png" alt="Card File Box{{emoji_end}}</summary>
+<summary><b>Data Structures and Algorithms</b> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20File%20Box.png" alt="Card File Box" width="25" height="25"></summary>
 
 - **English**
   - [Data Structures and Algorithms with Visualizations - FreeCodeCamp Full Course in one video](https://www.youtube.com/watch?v=2ZLl8GAk1X4)
