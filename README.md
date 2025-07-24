@@ -1,17 +1,17 @@
-<div align="center" style="background-image: url(''); background-size: cover; background-position: center; padding: 20px;">
+{{center}}
 
-# 🗺 Computer Science Fundamentals Roadmap <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" alt="Glowing Star" width="25" height="25">
+# 🗺 {{project_name}} {{emoji_path}}/Activities/1st%20Place%20Medal.png" alt="Glowing Star{{emoji_end}}
 
-#### This roadmap provides a structured guide for beginners to explore computer science fundamentals. The resources included are personal recommendations. Feel free to choose your own path as you learn and grow! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Hot Beverage" width="25" height="25">
+#### This roadmap provides a structured guide for beginners to explore computer science fundamentals. The resources included are personal recommendations. Feel free to choose your own path as you learn and grow! {{emoji_path}}/Food/Hot%20Beverage.png" alt="Hot Beverage{{emoji_end}}
 
 ---
 
 ### **Edited Version**
 
-This roadmap was created by [Ahmed M. Yahia](https://github.com/ahmedmahmoud72).  
-And this is the original [roadmap](https://github.com/ahmedmahmoud72/Computer-Science-Fundamentals-Roadmap).  
+This roadmap was created by [{{author_name}}]({{author_github}}).  
+And this is the original [roadmap]({{author_github}}/Computer-Science-Fundamentals-Roadmap).  
 This is an **edited** version reflecting my own thoughts and additions to the roadmap.  
-Alright then... Enjoy <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25">
+Alright then... Enjoy {{emoji_path}}/Travel%20and%20places/Fire.png" alt="Fire{{emoji_end}}
 
 ---
 
@@ -22,28 +22,27 @@ For translation:
 ![Python Badge](https://img.shields.io/badge/Language-Python-blue)
 ![C++ Badge](https://img.shields.io/badge/Language-C++-orange)
 ![License Badge](https://img.shields.io/badge/License-Apache-green)
-![Contributions Welcome Badge](https://img.shields.io/badge/Contributions-Welcome-brightgreen)
 ![Status Badge](https://img.shields.io/badge/Status-Active-brightgreen)
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="25" height="25"> Table of Contents
+## {{emoji_path}}/Objects/Books.png" alt="Books{{emoji_end}} Table of Contents
 
-- [Introduction to Computer Science](#introduction-to-computer-science)  
-- [Choose a Programming Language](#choose-a-programming-language)  
-- [Object-Oriented Programming (OOP)](#object-oriented-programming-oop)  
-- [Data Structures and Algorithms](#data-structures-and-algorithms)  
-- [Databases](#databases)  
-- [Operating Systems (OS)](#operating-systems-os)  
-- [Problem-Solving (Practice From Day One)](#problem-solving-practice-from-day-one)  
-- [Version Control](#version-control)  
-- [Choose Your Path](#choose-your-path)
+- [Introduction to Computer Science](#introduction-to-computer-science-)  
+- [Choose a Programming Language](#choose-a-programming-language-)  
+- [Object-Oriented Programming (OOP)](#object-oriented-programming-oop-)  
+- [Data Structures and Algorithms](#data-structures-and-algorithms-)  
+- [Databases](#databases-)  
+- [Operating Systems (OS)](#operating-systems-os-)  
+- [Problem-Solving (Practice From Day One)](#problem-solving-practice-from-day-one-)  
+- [Version Control](#version-control-)  
+- [Choose Your Path](#choose-your-path-)
 
 ---
 
-## Content
+### Content
 
-### Introduction to Computer Science <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Student.png" alt="Student Icon" width="25" height="25">
+## Introduction to Computer Science {{emoji_path}}/People/Student.png" alt="Student Icon{{emoji_end}}
 
 > **Note:** Choose the course that best aligns with your interests and learning style. Each of these courses will provide you with a solid foundation in computer science.
 
@@ -64,19 +63,19 @@ This is an introductory course in computer science that uses Python as the prima
 
 ![MIT Python Course](assets/images/MITx.jpeg)
 
-[🔝 Back to Top](#table-of-contents) | [➡️ Next Section](#choose-a-programming-language)
+[🔝 Back to Top](#-table-of-contents) | [➡️ Next Section](#choose-a-programming-language-)
 
 </details>
 
 ---
 
-### Choose a Programming Language <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25">
+## Choose a Programming Language {{emoji_path}}/Smilies/Robot.png" alt="Robot{{emoji_end}}
 
 > After completing the Introduction to Computer Science, it's time to dive deeper into a specific programming language. Below are resources for both Java and C++. Choose only **one** to focus on—the main difference between these languages is their syntax, so the concepts you learn will be applicable in either case.
 
 <details>
 
-#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Hot Beverage" width="25" height="25"> Java
+#### {{emoji_path}}/Food/Hot%20Beverage.png" alt="Hot Beverage{{emoji_end}} Java
 
 | **Language** | **Resource** | **Link** |
 |--------------|--------------|----------|
@@ -116,13 +115,13 @@ This is an introductory course in computer science that uses Python as the prima
 
 ---
 
-### Object Oriented Programming (OOP) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25">
+## Object Oriented Programming (OOP) {{emoji_path}}/Smilies/Alien%20Monster.png" alt="Alien Monster{{emoji_end}}
 
 > Learn the various programming paradigms, with a strong focus on Object-Oriented Programming (OOP).
 
 <details>
 
-## ☕ Object Oriented Programming in Java
+### ☕ Object Oriented Programming in Java
 
 - **English**
     - [Full Java Course by Alex Lee - From video 71](https://www.youtube.com/playlist?list=PL59LTecnGM1NRUyune3SxzZlYpZezK-oQ)
@@ -134,7 +133,7 @@ This is an introductory course in computer science that uses Python as the prima
    - [OOP - بالعربي - Omar Ahmed](https://youtube.com/playlist?list=PLwWuxCLlF_ue7GPvoG_Ko1x43tZw5cz9v&si=FD1ZbGIa64hf6nBw)
 ---
 
-## 🖥️ Object Oriented Programming C++
+### 🖥️ Object Oriented Programming C++
 
 - **English**
   - [Object Oriented Programming (OOP) in C++ Course - FreeCodeCamp Crash Course](https://youtu.be/wN0x9eZLix4?si=nJYhSnegkQLfl9r0)
@@ -146,16 +145,19 @@ This is an introductory course in computer science that uses Python as the prima
   
 ---
 
-## 📚 Books
+### 📚 Books
    - [Head First Object-Oriented Analysis and Design](https://drive.google.com/file/d/125gh8BrCMnhjusOkHmC0-pC84pGbPyjF/view?usp=drive_link)
    - [Head First Design Patterns](https://drive.google.com/file/d/17ow6nRzxuiUic756jKf2g3Pv4HrqouXP/view?usp=drive_link)
 
 </details>
 
-<br>
+---
+
+## Data Structures and Algorithms {{emoji_path}}/Objects/Card%20File%20Box.png" alt="Card File Box{{emoji_end}}
+
+> Don’t just memorize how a data structure works — understand why it exists and when to use it.
 
 <details>
-<summary><b>Data Structures and Algorithms</b> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20File%20Box.png" alt="Card File Box" width="25" height="25"></summary>
 
 - **English**
   - [Data Structures and Algorithms with Visualizations - FreeCodeCamp Full Course in one video](https://www.youtube.com/watch?v=2ZLl8GAk1X4)
@@ -174,9 +176,12 @@ This is an introductory course in computer science that uses Python as the prima
 
 ---
 
+## Databases {{emoji_path}}/Objects/Package.png" alt="Database{{emoji_end}}
+
+> Don’t just learn SQL syntax — **understand how data connects** and how to **design schemas** that reflect real-world logic.
 
 <details>
-<summary><b>Databases</b> ![Database Icon](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/main/Emojis/Objects/Database.png)</summary>
+
 - **English**
   - [Introduction to Databases with SQL - CS50](https://cs50.harvard.edu/sql/2024/)
   - [SQL Tutorial - Full Database Course for Beginners - FreeCodeCamp Crash Course](https://youtu.be/HXV3zeQKqGY?si=HE-mwX5mSE3m0Ccv) 
@@ -193,8 +198,11 @@ This is an introductory course in computer science that uses Python as the prima
 
 ---
 
+## Operating Systems (OS) {{emoji_path}}/Objects/Gear.png" alt="OS{{emoji_end}}
+
+>To not get overwhelmed, think of the OS as a system managing resources, one layer at a time: memory, processes, files, and hardware.
+
 <details>
-<summary><b>Operating Systems (OS)</b> ![OS Icon](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/main/Emojis/Objects/OS.png)</summary>
 
 - **English**
   - [Operating Systems: Three Easy Pieces (OSTEP) - CMU](https://youtube.com/playlist?list=PLRJWiLCmxyxi2RCPVYfewxJIWJzc_colw&si=z-qv7FdvltL24Jqs)
@@ -209,8 +217,13 @@ This is an introductory course in computer science that uses Python as the prima
 
 ---
 
+## Problem-Solving (Practice From Day One) {{emoji_path}}/Hand%20gestures/Brain.png" alt="Problem solving{{emoji_end}}
+
+> Big problems are just small problems glued together.
+Train yourself to divide and conquer — identify patterns, isolate constraints, and solve step by step.
+
 <details>
-<summary><b>Problem-Solving (Practice From Day One)</b> ![Problem Solving Icon](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/main/Emojis/Objects/ProblemSolving.png)</summary>
+
 - [ICPC Al-azhar](https://sites.google.com/view/azharicpc/training-plans/level-1-training21)
 - [ICPC Assiut](https://docs.google.com/spreadsheets/d/1EbbsotAwb0zuuwxyzs8l2qh8twqw-sNcNbAjCK1kXaE/edit?usp=drivesdk)
 - [Competitions sheet - Dr. Mustafa Saad](https://docs.google.com/spreadsheets/d/1iJZWP2nS_OB3kCTjq8L6TrJJ4o-5lhxDOyTaocSYc-k/edit?gid=84654839#gid=84654839)
@@ -219,17 +232,24 @@ This is an introductory course in computer science that uses Python as the prima
 - [NeetCode](https://neetcode.io/practice)
 - [NeetCode](https://www.youtube.com/@NeetCode/playlists)(*Youtube*)
 - [HackerRank](https://www.hackerrank.com/)
+
 </details>
 
 ---
 
+## Version Control {{emoji_path}}/Animals/Deciduous%20Tree.png" alt="Version Control{{emoji_end}}
+
+>Git doesn’t store **diffs** (file-by-file changes), it stores **snapshots** of your entire project at each commit.
+Understanding this mental model changes **how you use Git** — and helps avoid fear or confusion with commands like `revert`, `reset`, `rebase`, and `merge`.
+
 <details>
-<summary><b>Version Control</b> ![Version Control Icon](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/main/Emojis/Objects/VersionControl.png)</summary>
+
 - **English**
   - [Git and GitHub for Beginners- FreeCodeCamp Crash Course](https://youtu.be/RGOj5yH7evk?si=6pN3oFWDmtPQ3EVF)
 - **Arabic**
   - [Git and GitHub | شخبط وانت متطمن - Crash Course](https://youtu.be/Q6G-J54vgKc?si=hVMcqE0GXsi_f8tD) (*Recommended*)
   - [Learn Git and Github - Elzero Web School](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF)
+
 </details>
 
 ---
