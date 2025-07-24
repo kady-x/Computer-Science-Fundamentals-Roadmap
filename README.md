@@ -1,8 +1,8 @@
-{{center}}
+<div align="center" style="background-image: url(''); background-size: cover; background-position: center; padding: 20px;">
 
-# 🗺 {{project_name}} {{emoji_path}}/Activities/1st%20Place%20Medal.png" alt="Glowing Star{{emoji_end}}
+# 🗺 Computer Science Fundamentals Roadmap <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" alt="Glowing Star" width="25" height="25">
 
-#### This roadmap provides a structured guide for beginners to explore computer science fundamentals. The resources included are personal recommendations. Feel free to choose your own path as you learn and grow! {{emoji_path}}/Food/Hot%20Beverage.png" alt="Hot Beverage{{emoji_end}}
+#### This roadmap provides a structured guide for beginners to explore computer science fundamentals. The resources included are personal recommendations. Feel free to choose your own path as you learn and grow! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Hot Beverage" width="25" height="25">
 
 ---
 
