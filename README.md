@@ -1,17 +1,17 @@
-{{center}}
+<div align="center" style="background-image: url(''); background-size: cover; background-position: center; padding: 20px;">
 
-# 🗺 {{project_name}} {{emoji_path}}/Activities/1st%20Place%20Medal.png" alt="Glowing Star{{emoji_end}}
+# 🗺 Computer Science Fundamentals Roadmap <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" alt="Glowing Star" width="25" height="25">
 
-**This roadmap provides a structured guide for beginners to explore computer science fundamentals. The resources included are personal recommendations. Feel free to choose your own path as you learn and grow!** {{emoji_path}}/Food/Hot%20Beverage.png" alt="Hot Beverage{{emoji_end}}
+**This roadmap provides a structured guide for beginners to explore computer science fundamentals. The resources included are personal recommendations. Feel free to choose your own path as you learn and grow!** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Hot Beverage" width="25" height="25">
 
 ---
 
 ## **Edited Version**
 
-This roadmap was created by [{{author_name}}]({{author_github}}).  
-And this is the original [roadmap]({{author_github}}/Computer-Science-Fundamentals-Roadmap).  
+This roadmap was created by [Ahmed M. Yahia](https://github.com/ahmedmahmoud72).  
+And this is the original [roadmap](https://github.com/ahmedmahmoud72/Computer-Science-Fundamentals-Roadmap).  
 This is an **edited** version reflecting my own thoughts and additions to the roadmap.  
-Alright then... Enjoy {{emoji_path}}/Travel%20and%20places/Fire.png" alt="Fire{{emoji_end}}
+Alright then... Enjoy <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25">
 
 ---
 
@@ -26,7 +26,7 @@ For translation:
 
 ---
 
-## {{emoji_path}}/Objects/Books.png" alt="Books{{emoji_end}} Table of Contents
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="25" height="25"> Table of Contents
 
 - [Introduction to Computer Science](#introduction-to-computer-science-)  
 - [Choose a Programming Language](#choose-a-programming-language-)  
@@ -42,7 +42,7 @@ For translation:
 
 ### Content
 
-## Introduction to Computer Science {{emoji_path}}/People/Student.png" alt="Student Icon{{emoji_end}}
+## Introduction to Computer Science <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Student.png" alt="Student Icon" width="25" height="25">
 
 > **Note:** Choose the course that best aligns with your interests and learning style. Each of these courses will provide you with a solid foundation in computer science.
 
@@ -85,7 +85,7 @@ This is an introductory course in computer science that uses Python as the prima
 
 ---
 
-## Choose a Programming Language {{emoji_path}}/Smilies/Robot.png" alt="Robot{{emoji_end}}
+## Choose a Programming Language <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25">
 
 > After completing the Introduction to Computer Science, it's time to dive deeper into a specific programming language. Below are resources for both Java and C++. Choose only **one** to focus on—the main difference between these languages is their syntax, so the concepts you learn will be applicable in either case.
 
@@ -115,7 +115,7 @@ This is an introductory course in computer science that uses Python as the prima
 
 ---
 
-## Object Oriented Programming (OOP) {{emoji_path}}/Smilies/Alien%20Monster.png" alt="Alien Monster{{emoji_end}}
+## Object Oriented Programming (OOP) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25">
 
 > Learn the various programming paradigms, with a strong focus on Object-Oriented Programming (OOP).
 
@@ -136,7 +136,7 @@ This is an introductory course in computer science that uses Python as the prima
 
 ---
 
-## Data Structures and Algorithms {{emoji_path}}/Objects/Card%20File%20Box.png" alt="Card File Box{{emoji_end}}
+## Data Structures and Algorithms <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20File%20Box.png" alt="Card File Box" width="25" height="25">
 
 > Don’t just memorize how a data structure works — understand why it exists and when to use it.
 
@@ -154,7 +154,7 @@ This is an introductory course in computer science that uses Python as the prima
 
 ---
 
-## Databases {{emoji_path}}/Objects/Package.png" alt="Database{{emoji_end}}
+## Databases <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png" alt="Database" width="25" height="25">
 
 > Don’t just learn SQL syntax — **understand how data connects** and how to **design schemas** that reflect real-world logic.
 
@@ -173,7 +173,7 @@ This is an introductory course in computer science that uses Python as the prima
 
 ---
 
-## Operating Systems (OS) {{emoji_path}}/Objects/Gear.png" alt="OS{{emoji_end}}
+## Operating Systems (OS) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="OS" width="25" height="25">
 
 >To not get overwhelmed, think of the OS as a system managing resources, one layer at a time: memory, processes, files, and hardware.
 
@@ -190,7 +190,7 @@ This is an introductory course in computer science that uses Python as the prima
 
 ---
 
-## Problem-Solving (Practice From Day One) {{emoji_path}}/Hand%20gestures/Brain.png" alt="Problem solving{{emoji_end}}
+## Problem-Solving (Practice From Day One) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Problem solving" width="25" height="25">
 
 > Big problems are just small problems glued together.
 Train yourself to divide and conquer — identify patterns, isolate constraints, and solve step by step.
@@ -210,7 +210,7 @@ Train yourself to divide and conquer — identify patterns, isolate constraints,
 
 ---
 
-## Version Control {{emoji_path}}/Animals/Deciduous%20Tree.png" alt="Version Control{{emoji_end}}
+## Version Control <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Deciduous%20Tree.png" alt="Version Control" width="25" height="25">
 
 >Git doesn’t store **diffs** (file-by-file changes), it stores **snapshots** of your entire project at each commit.
 Understanding this mental model changes **how you use Git** — and helps avoid fear or confusion with commands like `revert`, `reset`, `rebase`, and `merge`.
