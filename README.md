@@ -16,7 +16,7 @@ Alright then... Enjoy <img src="https://raw.githubusercontent.com/Tarikul-Islam-
 ---
 
 For translation:  
-[English](https://github.com/kady-x/Computer-Science-Fundamentals-Roadmap/blob/main/README.md) | [عربي](https://github.com/kady-x/Computer-Science-Fundamentals-Roadmap/blob/main/README_AR.md)
+[English](https://github.com/kady-x/Computer-Science-Fundamentals-Roadmap/blob/main/README.md) | [عربي](https://github.com/kady-x/Computer-Science-Fundamentals-Roadmap/blob/Edited-Version/README_AR.md)
 
 ![JavaScript Badge](https://img.shields.io/badge/Language-JavaScript-yellow)
 ![Python Badge](https://img.shields.io/badge/Language-Python-blue)
