@@ -113,6 +113,8 @@ This is an introductory course in computer science that uses Python as the prima
 | **Tutorials / C++**| C++ Tutorial - Tutorialspoint | [Read Here](https://www.tutorialspoint.com/cplusplus) |
 | **Tutorials / C++**| C++ Tutorial - GeeksforGeeks | [Read Here](https://www.geeksforgeeks.org/c-plus-plus) |
 
+[🔝 Back to Top](#-table-of-contents) | [➡️ Next Section](#object-oriented-programming-oop-)
+
 ---
 
 ## Object Oriented Programming (OOP) {{emoji_path}}/Smilies/Alien%20Monster.png" alt="Alien Monster{{emoji_end}}
@@ -134,6 +136,8 @@ This is an introductory course in computer science that uses Python as the prima
 | **Book**              | Head First Object-Oriented Analysis and Design | [Read Here](https://drive.google.com/file/d/125gh8BrCMnhjusOkHmC0-pC84pGbPyjF/view?usp=drive_link) |
 | **Book**              | Head First Design Patterns | [Read Here](https://drive.google.com/file/d/17ow6nRzxuiUic756jKf2g3Pv4HrqouXP/view?usp=drive_link) |
 
+[🔝 Back to Top](#-table-of-contents) | [➡️ Next Section](#data-structures-and-algorithms-)
+
 ---
 
 ## Data Structures and Algorithms {{emoji_path}}/Objects/Card%20File%20Box.png" alt="Card File Box{{emoji_end}}
@@ -151,6 +155,8 @@ This is an introductory course in computer science that uses Python as the prima
 | &nbsp;            | &nbsp;       | &nbsp;   |
 | **Book**              | Grokking Algorithms | [Read Here](https://drive.google.com/file/d/1OhcZyamaofsFDszf0GbmHOAFtxzOX-f8/view?usp=drive_link) |
 | **Book**              | Algorithms Unplugged | [Read Here](https://drive.google.com/file/d/1W1W_JUYOuZ5gtCed6y2Hv4ZPEpGMsng1/view?usp=drive_link) |
+
+[🔝 Back to Top](#-table-of-contents) | [➡️ Next Section](#databases-)
 
 ---
 
@@ -171,6 +177,8 @@ This is an introductory course in computer science that uses Python as the prima
 | &nbsp;            | &nbsp;       | &nbsp;   |
 | **Book**              | Fundumentals Of Database Systems | [Read Here](https://drive.google.com/file/d/1JwJDWIbMhBU8DoMLUc0C0oXBuwqq5wW0/view?usp=drive_link) |
 
+[🔝 Back to Top](#-table-of-contents) | [➡️ Next Section](#operating-systems-os-)
+
 ---
 
 ## Operating Systems (OS) {{emoji_path}}/Objects/Gear.png" alt="OS{{emoji_end}}
@@ -187,6 +195,8 @@ This is an introductory course in computer science that uses Python as the prima
 | **Arabic**            | Operating Systems - أنظمة التشغيل - Dr. Ahmed Hagag | [Watch Here](https://www.youtube.com/playlist?list=PLxIvc-MGOs6ib0oK1z9C46DeKd9rRcSMY) |
 | &nbsp;            | &nbsp;       | &nbsp;   |
 | **Book**              | Introduction to operating system design and implementation | [Read Here](https://drive.google.com/file/d/1WjZIN4CNzcIfC5tPFDjfydgAVgrl9M7S/view?usp=drive_link) |
+
+[🔝 Back to Top](#-table-of-contents) | [➡️ Next Section](#problem-solving-practice-from-day-one-)
 
 ---
 
@@ -208,6 +218,8 @@ Train yourself to divide and conquer — identify patterns, isolate constraints,
 | **Platform**      | NeetCode (YouTube) | [Visit](https://www.youtube.com/@NeetCode/playlists) |
 | **Platform**      | HackerRank | [Visit](https://www.hackerrank.com/) |
 
+[🔝 Back to Top](#-table-of-contents) | [➡️ Next Section](#version-control-)
+
 ---
 
 ## Version Control {{emoji_path}}/Animals/Deciduous%20Tree.png" alt="Version Control{{emoji_end}}
@@ -222,9 +234,11 @@ Understanding this mental model changes **how you use Git** — and helps avoid 
 | **Arabic**       | Git and GitHub شخبط وانت متطمن - Crash Course | [Watch Here](https://youtu.be/Q6G-J54vgKc?si=hVMcqE0GXsi_f8tD) |
 | **Arabic**       | Learn Git and Github - Elzero Web School | [Watch Here](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF) |
 
+[🔝 Back to Top](#-table-of-contents) | [➡️ Next Section](#choose-your-path-)
+
 ---
 
-## 🛤️ Choose Your Path
+## Choose Your Path {{emoji_path}}/Animals/Deciduous%20Tree.png" alt="Version Control{{emoji_end}}
 
 Before diving into a specific career path, ensure you have a strong foundation in the following topics:
 
