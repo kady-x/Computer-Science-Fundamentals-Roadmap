@@ -274,7 +274,7 @@ Understanding this mental model changes **how you use Git** — and helps avoid 
 
 ---
 
-## Choose Your Path {{emoji_path}}/Animals/Deciduous%20Tree.png" alt="Version Control{{emoji_end}}
+## Choose Your Path <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Deciduous%20Tree.png" alt="Version Control" width="25" height="25">
 
 <details>
 <summary>Show resources</summary>
