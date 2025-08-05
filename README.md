@@ -1,223 +1,277 @@
-<h1 align="center">Hi, I'm Ahmed M. Yahia <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h4 align="center"> Software Engineer and Teaching Assistant at AIU </h4>
+<div align="center" style="background-image: url(''); background-size: cover; background-position: center; padding: 20px;">
 
+# 🗺 Computer Science Fundamentals Roadmap <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" alt="Glowing Star" width="25" height="25">
 
-
-<h1 align="center">🗺 Computer Science Fundemantals Roadmap</h1>
-
-<h4 align="center">This roadmap provides a structured guide for beginners to explore computer science fundamentals. The resources included are personal recommendations. Feel free to choose your own path as you learn and grow!</h4>
-<p>
-  <img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Animated Image" />
-</p>
-
-<br>
-
-## Content
-
-- **Introduction to Computer Science**
-
-- **Choose a Programming Language**
-
-- **Object-Oriented Programming (OOP)**
-
-- **Data Structures and Algorithms**
-
-- **Databases**
-
-- **Operating Systems (OS)**
-
-- **Problem Solving**
-
-- **Version Control**
-
-<br>
+**This roadmap provides a structured guide for beginners to explore computer science fundamentals. The resources included are personal recommendations. Feel free to choose your own path as you learn and grow!** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Hot Beverage" width="25" height="25">
 
 ---
 
-<br>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="25" height="25"> Table of Contents
 
-# Introduction to Computer Science
+- [Introduction to Computer Science](#introduction-to-computer-science-)  
+- [Choose a Programming Language](#choose-a-programming-language-)  
+- [Object-Oriented Programming (OOP)](#object-oriented-programming-oop-)  
+- [Data Structures and Algorithms](#data-structures-and-algorithms-)  
+- [Databases](#databases-)  
+- [Operating Systems (OS)](#operating-systems-os-)  
+- [Problem-Solving (Practice From Day One)](#problem-solving-practice-from-day-one-)  
+- [Version Control](#version-control-)
+
+---
+
+### Content
+
+## Introduction to Computer Science <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Student.png" alt="Student Icon" width="25" height="25">
 
 > **Note:** Choose the course that best aligns with your interests and learning style. Each of these courses will provide you with a solid foundation in computer science.
----
 
-## CS50: Introduction to Computer Science (Preferred)
+### CS50: Introduction to Computer Science (Preferred)
+
 This is Harvard University's introduction to the intellectual enterprises of computer science and the art of programming. The course teaches students how to think algorithmically and solve problems efficiently. Topics include abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development. Languages include C, Python, and SQL plus HTML, CSS, and JavaScript.
 
-- [CS50: Introduction to Computer Science](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science)
-- [CS50 In Arabic](https://www.youtube.com/playlist?list=PLknwEmKsW8OvMsFbU9zo8oJCprAsgc4LO)
+<table>
+  <tr>
+    <td>
+      <img src="assets/images/CS50.png" alt="CS50" width="200"/>
+    </td>
+    <td>
+      <ul>
+        <li><a href="https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science">CS50: Introduction to Computer Science</a></li>
+        <li><a href="https://www.youtube.com/playlist?list=PLknwEmKsW8OvMsFbU9zo8oJCprAsgc4LO">CS50 In Arabic</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-  
-<p align="center">
-  <a href="https://cs50.harvard.edu/college/2022/fall/"><img src="assets/images/CS50.png" width="500px" alt="CS50"></a>
-</p>
+### MITx: Introduction to Computer Science and Programming Using Python
 
-## MITx: Introduction to Computer Science and Programming Using Python
 This is an introductory course in computer science that uses Python as the primary language. The course covers basic concepts such as algorithms, data structures, and computational thinking. It's a great starting point for anyone new to programming and computer science.
 
-- [Introduction to Computer Science and Programming Using Python](https://www.edx.org/learn/computer-science/massachusetts-institute-of-technology-introduction-to-computer-science-and-programming-using-python)
+<table>
+  <tr>
+    <td>
+      <img src="assets/images/MITx.jpeg" alt="MIT Python Course" width="200"/>
+    </td>
+    <td>
+      <ul>
+        <li><a href="https://www.edx.org/learn/computer-science/massachusetts-institute-of-technology-introduction-to-computer-science-and-programming-using-python">Introduction to Computer Science and Programming Using Python</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-  
-<p align="center">
-  <a href="https://www.edx.org/learn/computer-science/massachusetts-institute-of-technology-introduction-to-computer-science-and-programming-using-python"><img src="assets/images/MITx.jpeg" width="500px" alt="MIT Python Course"></a>
-</p>
-
----
-# Next Step: Choose a Programming Language
-
-#### After completing the Introduction to Computer Science, it's time to dive deeper into a specific programming language. Below are resources for both Java and C++. Choose only **one** to focus on—the main difference between these languages is their syntax, so the concepts you learn will be applicable in either case.
-
----
-
-## ☕ Java
-
-- **English**
-    - [Java Tutorial for Beginners - Crash Course](https://youtu.be/eIrMbAQSU34?si=0fuf36q7lrjGieo8)
-    - [Java Programming for Beginners - FreeCodeCamp Crash Course](https://youtu.be/A74TOX803D0?si=1rQQWSE_7VreRVtw)
-
-
-- **Arabic**
-   - [Learn JAVA Programming From Scratch In Arabic - Adel Nasim](https://youtube.com/playlist?list=PLCInYL3l2AajYlZGzU_LVrHdoouf8W6ZN&si=86pJLYf_qGPv2gyE)
-   - [Java Programming For Beginners - Course 1- بالعربى - Dr.Mohamed El Desouky](https://youtube.com/playlist?list=PL1DUmTEdeA6K7rdxKiWJq6JIxTvHalY8f&si=wBnqFpgvpg9MrdCr)
-   - [Java - بالعربي - Omar Ahmed](https://youtube.com/playlist?list=PLwWuxCLlF_ucgIJOLT2KH5aQ9tt-sXyQ9&si=x1maTfUXmC4US8xC)
-     
-- **Tutorials**
-   - [Java Documentation - Oracle](https://docs.oracle.com/en/java/)
-   - [Java Tutorial - W3Schools](https://www.w3schools.com/java)
-   - [Java Tutorial - Javatpoint](https://www.javatpoint.com/java-tutorial)
-   - [Java Tutorial - Tutorialspoint](https://www.tutorialspoint.com/java)
-   - [Java Tutorial - GeeksforGeeks](https://www.geeksforgeeks.org/java/)
-
+[🔝 Back to Top](#-table-of-contents) | [➡️ Next Section](#choose-a-programming-language-)
 
 ---
 
-## 🖥️ C++
+## Choose a Programming Language <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25">
 
-- **English**
-  - [C++ Tutorial for Beginners - FreeCodeCamp Crash Course](https://youtu.be/vLnPwxZdW4Y?si=do7-JVxyq7LBUqVG)
-  - [C++ Programming Course - Beginner to Advanced - FreeCodeCamp full course in one video](https://youtu.be/8jLOx1hD3_o?si=8xnUkbi8XO-mvlq0)
+<details>
+<summary>Show resources</summary>
 
-- **Arabic**
-  - [CPP for beginners - سي بلس للمبتدئين - Dr Mustafa Saad](https://youtube.com/playlist?list=PLPt2dINI2MIbwnEoeHZnUHeUHjTd8x4F3&si=iwgxMvbTw4lauDfb)
-  - [Fundamentals Of Programming With C++ - Elzero Web School](https://youtube.com/playlist?list=PLDoPjvoNmBAwy-rS6WKudwVeb_x63EzgS&si=Pw-zeMW-cssGLEkL)
-  - [Learn C++ Programming From Scratch In Arabic - Adel Nasim](https://youtube.com/playlist?list=PLCInYL3l2AajFAiw4s1U4QbGszcQ-rAb3&si=16vIfd0OwKqpUTLe)
-  - [programming 1 - Programming For Beginners - C++ عربى - Dr.Mohamed El Desouky](https://youtube.com/playlist?list=PL1DUmTEdeA6IUD9Gt5rZlQfbZyAWXd-oD&si=gJ-SAIWXU60ljRbC)
-  
-- **Tutorials**
-   - [C++ Tutorial - W3Schools](https://www.w3schools.com/cpp)
-   - [C++ Tutorial - Javatpoint](https://www.javatpoint.com/cpp-tutorial)
-   - [C++ Tutorial - Tutorialspoint](https://www.tutorialspoint.com/cplusplus)
-   - [C++ Tutorial - GeeksforGeeks](https://www.geeksforgeeks.org/c-plus-plus)
+> After completing the Introduction to Computer Science, it's time to dive deeper into a specific programming language. Below are resources for both Java and C++. Choose only **one** to focus on—the main difference between these languages is their syntax, so the concepts you learn will be applicable in either case.
 
----
+| **Language/Type** | **Resource** | **Link** |
+|--------------|--------------|----------|
+| **English / Java** | Java Tutorial for Beginners - Crash Course | [Watch Here](https://youtu.be/eIrMbAQSU34?si=0fuf36q7lrjGieo8) |
+| **English / Java**  | Java Programming for Beginners - FreeCodeCamp Crash Course | [Watch Here](https://youtu.be/A74TOX803D0?si=1rQQWSE_7VreRVtw) |
+| **Arabic / Java**   | Learn JAVA Programming From Scratch In Arabic - Adel Nasim | [Watch Here](https://youtube.com/playlist?list=PLCInYL3l2AajYlZGzU_LVrHdoouf8W6ZN&si=86pJLYf_qGPv2gyE) |
+| **Arabic / Java**   | Java Programming For Beginners - Course 1- بالعربى - Dr.Mohamed El Desouky | [Watch Here](https://youtube.com/playlist?list=PL1DUmTEdeA6K7rdxKiWJq6JIxTvHalY8f&si=wBnqFpgvpg9MrdCr) |
+| **Arabic / Java**   | Java - بالعربي - Omar Ahmed | [Watch Here](https://youtube.com/playlist?list=PLwWuxCLlF_ucgIJOLT2KH5aQ9tt-sXyQ9&si=x1maTfUXmC4US8xC) |
+| **Tutorials / Java**| Java Documentation - Oracle | [Read Here](https://docs.oracle.com/en/java/) |
+| **Tutorials / Java**| Java Tutorial - W3Schools | [Read Here](https://www.w3schools.com/java) |
+| **Tutorials / Java**| Java Tutorial - Javatpoint | [Read Here](https://www.javatpoint.com/java-tutorial) |
+| **Tutorials / Java**| Java Tutorial - Tutorialspoint | [Read Here](https://www.tutorialspoint.com/java) |
+| **Tutorials / Java**| Java Tutorial - GeeksforGeeks | [Read Here](https://www.geeksforgeeks.org/java/) |
+| &nbsp;       | &nbsp;       | &nbsp;   |
+| **English / C++**  | C++ Tutorial for Beginners - FreeCodeCamp Crash Course | [Watch Here](https://youtu.be/vLnPwxZdW4Y?si=do7-JVxyq7LBUqVG) |
+| **English / C++**  | C++ Programming Course - Beginner to Advanced - FreeCodeCamp full course in one video | [Watch Here](https://youtu.be/8jLOx1hD3_o?si=8xnUkbi8XO-mvlq0) |
+| **Arabic / C++**   | CPP for beginners - سي بلس للمبتدئين - Dr Mustafa Saad | [Watch Here](https://youtube.com/playlist?list=PLPt2dINI2MIbwnEoeHZnUHeUHjTd8x4F3&si=iwgxMvbTw4lauDfb) |
+| **Arabic / C++**   | Fundamentals Of Programming With C++ - Elzero Web School | [Watch Here](https://youtube.com/playlist?list=PLDoPjvoNmBAwy-rS6WKudwVeb_x63EzgS&si=Pw-zeMW-cssGLEkL) |
+| **Arabic / C++**   | Learn C++ Programming From Scratch In Arabic - Adel Nasim | [Watch Here](https://youtube.com/playlist?list=PLCInYL3l2AajFAiw4s1U4QbGszcQ-rAb3&si=16vIfd0OwKqpUTLe) |
+| **Arabic / C++**   | programming 1 - Programming For Beginners - C++ عربى - Dr.Mohamed El Desouky | [Watch Here](https://youtube.com/playlist?list=PL1DUmTEdeA6IUD9Gt5rZlQfbZyAWXd-oD&si=gJ-SAIWXU60ljRbC) |
+| **Tutorials / C++**| C++ Tutorial - W3Schools | [Read Here](https://www.w3schools.com/cpp) |
+| **Tutorials / C++**| C++ Tutorial - Javatpoint | [Read Here](https://www.javatpoint.com/cpp-tutorial) |
+| **Tutorials / C++**| C++ Tutorial - Tutorialspoint | [Read Here](https://www.tutorialspoint.com/cplusplus) |
+| **Tutorials / C++**| C++ Tutorial - GeeksforGeeks | [Read Here](https://www.geeksforgeeks.org/c-plus-plus) |
 
-> **Note:** The core programming concepts you'll learn in Java, C++ and most programming languages are fundamentally the same. The choice of language primarily affects the syntax you'll use to implement these concepts. Pick the language that aligns best with your interests or future goals.
-# Object Oriented Programming (OOP).
+[🔝 Back to Top](#-table-of-contents) | [➡️ Next Section](#object-oriented-programming-oop-)
 
-### Learn the various programming paradigms, with a strong focus on Object-Oriented Programming (OOP).
-
-## ☕ Object Oriented Programming in Java
-
-- **English**
-    - [Full Java Course by Alex Lee - From video 71](https://www.youtube.com/playlist?list=PL59LTecnGM1NRUyune3SxzZlYpZezK-oQ)
-
-
-- **Arabic**
-   - [Object-Oriented Programming JAVA in Arabic - Adel Nasim](https://youtube.com/playlist?list=PLCInYL3l2AagY7fFlhCrjpLiIFybW3yQv&si=ffwN6Pv4c7bk9RBC)
-   - [Programming 2 - Object Oriented Programming With Java - Dr.Mohamed El Desouky](https://youtube.com/playlist?list=PL1DUmTEdeA6Icttz-O9C3RPRF8R8Px5vk&si=7aYe_yLppyu_wJon)
-   - [OOP - بالعربي - Omar Ahmed](https://youtube.com/playlist?list=PLwWuxCLlF_ue7GPvoG_Ko1x43tZw5cz9v&si=FD1ZbGIa64hf6nBw)
----
-
-## 🖥️ Object Oriented Programming C++
-
-- **English**
-  - [Object Oriented Programming (OOP) in C++ Course - FreeCodeCamp Crash Course](https://youtu.be/wN0x9eZLix4?si=nJYhSnegkQLfl9r0)
-
-- **Arabic**
-  - [C++ Object-Oriented Design and Programming - Dr. Mustafa Saad](https://youtube.com/playlist?list=PLPt2dINI2MIbMba7tpx3qvmgOsDlpITwG&si=JhCD8nN7pDcn5s-G)
-  - [Object-Oriented Programming C++ in Arabic - Adel Nasim](https://youtube.com/playlist?list=PLCInYL3l2Aaiq1oLvi9TlWtArJyAuCVow&si=b8zjSYQd7HoeMT0N)
-  - [Programming 2 - Object Oriented Programming with C++ - Dr.Mohamed El Desouky](https://youtube.com/playlist?list=PL1DUmTEdeA6KLEvIO0NyrkT91BVle8BOU&si=1d91-1biDzNIkQUl)
-  
----
-
-## 📚 Books
-   - [Head First Object-Oriented Analysis and Design](https://drive.google.com/file/d/125gh8BrCMnhjusOkHmC0-pC84pGbPyjF/view?usp=drive_link)
-   - [Head First Design Patterns](https://drive.google.com/file/d/17ow6nRzxuiUic756jKf2g3Pv4HrqouXP/view?usp=drive_link)
+</details>
 
 ---
 
-<br>
+## Object Oriented Programming (OOP) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25">
 
-# Data Structures and Algorithms
+<details>
+<summary>Show resources</summary>
 
-- **English**
-  - [Data Structures and Algorithms with Visualizations - FreeCodeCamp Full Course in one video](https://www.youtube.com/watch?v=2ZLl8GAk1X4)
+> Learn the various programming paradigms, with a strong focus on Object-Oriented Programming (OOP).
 
-- **Arabic**
-  - [Data Structures Full Course In Arabic - Adel Nasim](https://youtube.com/playlist?list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp&si=ggqXcs1kHUrENDAB)
-  - [C++ Data Structures - تراكيب البيانات -  Dr.Mohamed El Desouky](https://youtube.com/playlist?list=PL1DUmTEdeA6JlommmGP5wicYLxX5PVCQt&si=UYLt23C2Igz3Amnd)
-  - [Data Structures - Dr. Mustafa Saad](https://youtube.com/playlist?list=PLPt2dINI2MIZX2EtY81WI-lDkvhKziLKM&si=NqoNh2LytCe8Eb60)
- # Algorithms
-  - [Graph Algorithms for Technical Interviews  - FreeCodeCamp](https://youtu.be/tWVWeAqZ0WU?si=36_dfYXbKG1GgCWM)
-  - 📚 Books
-    - [Grokking Algorithms](https://drive.google.com/file/d/1OhcZyamaofsFDszf0GbmHOAFtxzOX-f8/view?usp=drive_link)
-    - [Algorithms Unplugged](https://drive.google.com/file/d/1W1W_JUYOuZ5gtCed6y2Hv4ZPEpGMsng1/view?usp=drive_link)
+| **Language/Type** | **Resource** | **Link** |
+|-------------------|--------------|----------|
+| **English / Java**    | Full Java Course by Alex Lee - From video 71 | [Watch Here](https://www.youtube.com/playlist?list=PL59LTecnGM1NRUyune3SxzZlYpZezK-oQ) |
+| **Arabic / Java**     | Object-Oriented Programming JAVA in Arabic - Adel Nasim | [Watch Here](https://youtube.com/playlist?list=PLCInYL3l2AagY7fFlhCrjpLiIFybW3yQv&si=ffwN6Pv4c7bk9RBC) |
+| **Arabic / Java**     | Programming 2 - Object Oriented Programming With Java - Dr.Mohamed El Desouky | [Watch Here](https://youtube.com/playlist?list=PL1DUmTEdeA6Icttz-O9C3RPRF8R8Px5vk&si=7aYe_yLppyu_wJon) |
+| **Arabic / Java**     | OOP - بالعربي - Omar Ahmed | [Watch Here](https://youtube.com/playlist?list=PLwWuxCLlF_ue7GPvoG_Ko1x43tZw5cz9v&si=FD1ZbGIa64hf6nBw) |
+| &nbsp;            | &nbsp;       | &nbsp;   |
+| **English / C++**     | Object Oriented Programming (OOP) in C++ Course - FreeCodeCamp Crash Course | [Watch Here](https://youtu.be/wN0x9eZLix4?si=nJYhSnegkQLfl9r0) |
+| **Arabic / C++**      | C++ Object-Oriented Design and Programming - Dr. Mustafa Saad | [Watch Here](https://youtube.com/playlist?list=PLPt2dINI2MIbMba7tpx3qvmgOsDlpITwG&si=JhCD8nN7pDcn5s-G) |
+| **Arabic / C++**     | Object-Oriented Programming C++ in Arabic - Adel Nasim | [Watch Here](https://youtube.com/playlist?list=PLCInYL3l2Aaiq1oLvi9TlWtArJyAuCVow&si=b8zjSYQd7HoeMT0N) |
+| **Arabic / C++**      | Programming 2 - Object Oriented Programming with C++ - Dr.Mohamed El Desouky | [Watch Here](https://youtube.com/playlist?list=PL1DUmTEdeA6KLEvIO0NyrkT91BVle8BOU&si=1d91-1biDzNIkQUl) |
+| &nbsp;            | &nbsp;       | &nbsp;   |
+| **Book**              | Head First Object-Oriented Analysis and Design | [Read Here](https://drive.google.com/file/d/125gh8BrCMnhjusOkHmC0-pC84pGbPyjF/view?usp=drive_link) |
+| **Book**              | Head First Design Patterns | [Read Here](https://drive.google.com/file/d/17ow6nRzxuiUic756jKf2g3Pv4HrqouXP/view?usp=drive_link) |
 
----
+[🔝 Back to Top](#-table-of-contents) | [➡️ Next Section](#data-structures-and-algorithms-)
 
-
-# Databases
-- **English**
-  - [Introduction to Databases with SQL - CS50](https://cs50.harvard.edu/sql/2024/)
-  - [SQL Tutorial - Full Database Course for Beginners - FreeCodeCamp Crash Course](https://youtu.be/HXV3zeQKqGY?si=HE-mwX5mSE3m0Ccv) 
-- **Arabic**
-  - [Database 1 - Fundamentals of Database Systems - Dr.Mohamed El Desouky](https://youtube.com/playlist?list=PL37D52B7714788190&si=VGHd_wgOvTHKLEir)
-  - [ITI Material](https://drive.google.com/drive/folders/136jCVW9dISvw-SFjnRklPh1YEzbeS025)
-  - [Database Fundamentals - MaharaTech](https://maharatech.gov.eg/course/view.php?id=740)
-  - [Database Management Systems Course - 2nd Database Course (*Advanced*) - Dr.Mohamed El Desouky](https://youtube.com/playlist?list=PL1DUmTEdeA6Lg6CXlnxEDhwpmWB0QaDh5&si=VkPT9rFNZpkyWDew)
-  - [Relational Database Internals Arabic (*Advanced*)](https://youtube.com/playlist?list=PLE8kQVoC67PzGwMMsSk3C8MvfAqcYjusF&si=gbn5kX2CT3rp33WF) (*Recommended*)
-- **📚 Books**
-   - [Fundumentals Of Database Systems](https://drive.google.com/file/d/1JwJDWIbMhBU8DoMLUc0C0oXBuwqq5wW0/view?usp=drive_link)
+</details>
 
 ---
 
-# Operating Systems (OS)
+## Data Structures and Algorithms <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20File%20Box.png" alt="Card File Box" width="25" height="25">
 
-- **English**
-  - [Operating Systems: Three Easy Pieces (OSTEP) - CMU](https://youtube.com/playlist?list=PLRJWiLCmxyxi2RCPVYfewxJIWJzc_colw&si=z-qv7FdvltL24Jqs)
-  - [Operating Systems Course for Beginners - FreeCodeCamp Course](https://youtu.be/yK1uBHPdp30?si=0Dxg8UjKlZDBwgzu)
-  - [Operating System - Neso Academy](https://youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O&si=8kTi59gtlRk-s4Wm)
-- **Arabic**
-  - [ITI Material](https://youtube.com/playlist?list=PLtHXR6eHeKvs9YsgFcqgUAqM4zaMjVOvj&si=2TW5a6aGa5JWCNQx)
-  - [Operating Systems - أنظمة التشغيل - Dr. Ahmed Hagag](https://www.youtube.com/playlist?list=PLxIvc-MGOs6ib0oK1z9C46DeKd9rRcSMY)
-- **📚 Books**
-   - [Introduction to operating system design and implementation](https://drive.google.com/file/d/1WjZIN4CNzcIfC5tPFDjfydgAVgrl9M7S/view?usp=drive_link)
----
+<details>
+<summary>Show resources</summary>
 
-# Problem-Solving (Practice From Day One)
-- [ICPC Al-azhar](https://sites.google.com/view/azharicpc/training-plans/level-1-training21)
-- [ICPC Assiut](https://docs.google.com/spreadsheets/d/1EbbsotAwb0zuuwxyzs8l2qh8twqw-sNcNbAjCK1kXaE/edit?usp=drivesdk)
-- [Competitions sheet - Dr. Mustafa Saad](https://docs.google.com/spreadsheets/d/1iJZWP2nS_OB3kCTjq8L6TrJJ4o-5lhxDOyTaocSYc-k/edit?gid=84654839#gid=84654839)
-- [Interviews Sheet sheet - Dr. Mustafa Saad](https://docs.google.com/spreadsheets/d/1ClmoHFMqQKOHinRhrId42sbofQ0T0IyaFzZcEcVvXbU/edit?gid=593476609#gid=593476609)
-- [LeetCode](https://leetcode.com/)
-- [NeetCode](https://neetcode.io/practice)
-- [NeetCode](https://www.youtube.com/@NeetCode/playlists)(*Youtube*)
-- [HackerRank](https://www.hackerrank.com/)
+> Don’t just memorize how a data structure works — understand why it exists and when to use it.
 
+| **Language/Type** | **Resource** | **Link** |
+|-------------------|--------------|----------|
+| **English**           | Data Structures and Algorithms with Visualizations - FreeCodeCamp Full Course | [Watch Here](https://www.youtube.com/watch?v=2ZLl8GAk1X4) |
+| **English**           | Graph Algorithms for Technical Interviews  - FreeCodeCamp | [Watch Here](https://youtu.be/tWVWeAqZ0WU?si=36_dfYXbKG1GgCWM) |
+| &nbsp;            | &nbsp;       | &nbsp;   |
+| **Arabic**            | Data Structures Full Course In Arabic - Adel Nasim | [Watch Here](https://youtube.com/playlist?list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp&si=ggqXcs1kHUrENDAB) |
+| **Arabic**            | C++ Data Structures - تراكيب البيانات -  Dr.Mohamed El Desouky | [Watch Here](https://youtube.com/playlist?list=PL1DUmTEdeA6JlommmGP5wicYLxX5PVCQt&si=UYLt23C2Igz3Amnd) |
+| **Arabic**            | Data Structures - Dr. Mustafa Saad | [Watch Here](https://youtube.com/playlist?list=PLPt2dINI2MIZX2EtY81WI-lDkvhKziLKM&si=NqoNh2LytCe8Eb60) |
+| &nbsp;            | &nbsp;       | &nbsp;   |
+| **Book**              | Grokking Algorithms | [Read Here](https://drive.google.com/file/d/1OhcZyamaofsFDszf0GbmHOAFtxzOX-f8/view?usp=drive_link) |
+| **Book**              | Algorithms Unplugged | [Read Here](https://drive.google.com/file/d/1W1W_JUYOuZ5gtCed6y2Hv4ZPEpGMsng1/view?usp=drive_link) |
 
-# Version Control
-- **English**
-  - [Git and GitHub for Beginners- FreeCodeCamp Crash Course](https://youtu.be/RGOj5yH7evk?si=6pN3oFWDmtPQ3EVF)
-- **Arabic**
-  - [Git and GitHub | شخبط وانت متطمن - Crash Course](https://youtu.be/Q6G-J54vgKc?si=hVMcqE0GXsi_f8tD) (*Recommended*)
-  - [Learn Git and Github - Elzero Web School](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF)
+[🔝 Back to Top](#-table-of-contents) | [➡️ Next Section](#databases-)
+
+</details>
 
 ---
 
-<br>
+## Operating Systems (OS) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="OS" width="25" height="25">
 
-# Contact Me 📱
+>To not get overwhelmed, think of the OS as a system managing resources, one layer at a time: memory, processes, files, and hardware.
 
-<a href="https://www.linkedin.com/in/ahmed-mahmoud-b3a9ab200/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.facebook.com/profile.php?id=100083276557124" title="Facebook"><img src="https://img.shields.io/badge/Facebook-%231877F2?style=flat&logo=facebook&logoColor=white"/></a>
+## Databases <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png" alt="Database" width="25" height="25">
 
+<details>
+<summary>Show resources</summary>
+
+> Don’t just learn SQL syntax — **understand how data connects** and how to **design schemas** that reflect real-world logic.
+
+| **Language/Type** | **Resource** | **Link** |
+|-------------------|--------------|----------|
+| **English**           | Introduction to Databases with SQL - CS50 | [Watch Here](https://cs50.harvard.edu/sql/2024/) |
+| **English**           | SQL Tutorial - Full Database Course for Beginners - FreeCodeCamp Crash Course | [Watch Here](https://youtu.be/HXV3zeQKqGY?si=HE-mwX5mSE3m0Ccv) |
+| &nbsp;            | &nbsp;       | &nbsp;   |
+| **Arabic**            | Database 1 - Fundamentals of Database Systems - Dr.Mohamed El Desouky | [Watch Here](https://youtube.com/playlist?list=PL37D52B7714788190&si=VGHd_wgOvTHKLEir) |
+| **Arabic**            | ITI Material | [Read Here](https://drive.google.com/drive/folders/136jCVW9dISvw-SFjnRklPh1YEzbeS025) |
+| **Arabic**            | Database Fundamentals - MaharaTech | [Read Here](https://maharatech.gov.eg/course/view.php?id=740) |
+| **Arabic**            | Database Management Systems Course - 2nd Database Course (*Advanced*) - Dr.Mohamed El Desouky | [Watch Here](https://youtube.com/playlist?list=PL1DUmTEdeA6Lg6CXlnxEDhwpmWB0QaDh5&si=VkPT9rFNZpkyWDew) |
+| **Arabic**            | Relational Database Internals Arabic (*Advanced*) **(Recommended)** | [Watch Here](https://youtube.com/playlist?list=PLE8kQVoC67PzGwMMsSk3C8MvfAqcYjusF&si=gbn5kX2CT3rp33WF) |
+| &nbsp;            | &nbsp;       | &nbsp;   |
+| **Book**              | Fundumentals Of Database Systems | [Read Here](https://drive.google.com/file/d/1JwJDWIbMhBU8DoMLUc0C0oXBuwqq5wW0/view?usp=drive_link) |
+
+[🔝 Back to Top](#-table-of-contents) | [➡️ Next Section](#operating-systems-os-)
+
+</details>
+
+---
+
+## Operating Systems (OS) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="OS" width="25" height="25">
+
+<details>
+<summary>Show resources</summary>
+
+>To not get overwhelmed, think of the OS as a system managing resources, one layer at a time: memory, processes, files, and hardware.
+
+| **Language/Type** | **Resource** | **Link** |
+|-------------------|--------------|----------|
+| **English**           | Operating Systems: Three Easy Pieces (OSTEP) - CMU | [Watch Here](https://youtube.com/playlist?list=PLRJWiLCmxyxi2RCPVYfewxJIWJzc_colw&si=z-qv7FdvltL24Jqs) |
+| **English**           | Operating Systems Course for Beginners - FreeCodeCamp Course | [Watch Here](https://youtu.be/yK1uBHPdp30?si=0Dxg8UjKlZDBwgzu) |
+| **English**           | Operating System - Neso Academy | [Watch Here](https://youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O&si=8kTi59gtlRk-s4Wm) |
+| &nbsp;            | &nbsp;       | &nbsp;   |
+| **Arabic**            | ITI Material | [Watch Here](https://youtube.com/playlist?list=PLtHXR6eHeKvs9YsgFcqgUAqM4zaMjVOvj&si=2TW5a6aGa5JWCNQx) |
+| **Arabic**            | Operating Systems - أنظمة التشغيل - Dr. Ahmed Hagag | [Watch Here](https://www.youtube.com/playlist?list=PLxIvc-MGOs6ib0oK1z9C46DeKd9rRcSMY) |
+| &nbsp;            | &nbsp;       | &nbsp;   |
+| **Book**              | Introduction to operating system design and implementation | [Read Here](https://drive.google.com/file/d/1WjZIN4CNzcIfC5tPFDjfydgAVgrl9M7S/view?usp=drive_link) |
+
+[🔝 Back to Top](#-table-of-contents) | [➡️ Next Section](#problem-solving-practice-from-day-one-)
+
+</details>
+
+---
+
+## Problem-Solving (Practice From Day One) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Problem solving" width="25" height="25">
+
+<details>
+<summary>Show resources</summary>
+
+> Big problems are just small problems glued together.
+Train yourself to divide and conquer — identify patterns, isolate constraints, and solve step by step.
+
+| **Type** | **Resource** | **Link** |
+|----------|--------------|----------|
+| **Training Plan** | ICPC Al-azhar | [View Here](https://sites.google.com/view/azharicpc/training-plans/level-1-training21) |
+| **Training Plan** | ICPC Assiut | [View Here](https://docs.google.com/spreadsheets/d/1EbbsotAwb0zuuwxyzs8l2qh8twqw-sNcNbAjCK1kXaE/edit?usp=drivesdk) |
+| &nbsp;            | &nbsp;       | &nbsp;   |
+| **Sheet**         | Competitions sheet - Dr. Mustafa Saad | [View Here](https://docs.google.com/spreadsheets/d/1iJZWP2nS_OB3kCTjq8L6TrJJ4o-5lhxDOyTaocSYc-k/edit?gid=84654839#gid=84654839) |
+| **Sheet**         | Interviews Sheet sheet - Dr. Mustafa Saad | [View Here](https://docs.google.com/spreadsheets/d/1ClmoHFMqQKOHinRhrId42sbofQ0T0IyaFzZcEcVvXbU/edit?gid=593476609#gid=593476609) |
+| &nbsp;            | &nbsp;       | &nbsp;   |
+| **Platform**      | LeetCode | [Visit](https://leetcode.com/) |
+| **Platform**      | NeetCode | [Visit](https://neetcode.io/practice) |
+| **Platform**      | NeetCode (YouTube) | [Visit](https://www.youtube.com/@NeetCode/playlists) |
+| **Platform**      | HackerRank | [Visit](https://www.hackerrank.com/) |
+
+[🔝 Back to Top](#-table-of-contents) | [➡️ Next Section](#version-control-)
+
+</details>
+
+---
+
+## Version Control <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Deciduous%20Tree.png" alt="Version Control" width="25" height="25">
+
+<details>
+<summary>Show resources</summary>
+
+>Git doesn’t store **diffs** (file-by-file changes), it stores **snapshots** of your entire project at each commit.
+Understanding this mental model changes **how you use Git** — and helps avoid fear or confusion with commands like `revert`, `reset`, `rebase`, and `merge`.
+
+| **Language** | **Resource** | **Link** |
+|--------------|--------------|----------|
+| **English**      | Git and GitHub for Beginners- FreeCodeCamp Crash Course | [Watch Here](https://youtu.be/RGOj5yH7evk?si=6pN3oFWDmtPQ3EVF) |
+| &nbsp;            | &nbsp;       | &nbsp;   |
+| **Arabic**       | Git and GitHub شخبط وانت متطمن - Crash Course **(Recommended)**| [Watch Here](https://youtu.be/Q6G-J54vgKc?si=hVMcqE0GXsi_f8tD) |
+| **Arabic**       | Learn Git and Github - Elzero Web School | [Watch Here](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF) |
+
+[🔝 Back to Top](#-table-of-contents)
+
+</details>
+
+---
+
+## Created By  
+[<img src="https://avatars.githubusercontent.com/ahmedmahmoud72" alt="Mohamed Elkady GitHub Avatar" style="border-radius: 50%; width: 104px; height: 104px;">](https://github.com/ahmedmahmoud72)  
+### **Ahmed M. Yahia**  
+**Software Engineer and Teaching Assistant at AIU**
+
+---
+
+## Contributors  
+[<img src="https://avatars.githubusercontent.com/kady-x" alt="Mohamed Elkady GitHub Avatar" style="border-radius: 50%; width: 52px; height: 52px;">](https://github.com/kady-x)  
+**Mohamed Elkady**
+
+---
+
+## Contact Me 📱  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230177B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-mahmoud-b3a9ab200/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100083276557124/)
+
+---
